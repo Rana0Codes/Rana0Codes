@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- Enhanced Spatial Depth Hero & 3D WebGL Gateway -->
-<a href="https://rana0codes.github.io/Portfolio-v2/?app=universe3d">
-  <img src="./assets/hero_animated.svg" alt="Juyel Rana (@Rana0Codes) — Systems Engineer &amp; Applied AI Architect" width="100%" />
-</a>
+<!-- Epic Dragon vs Phoenix Animated Hero Showcase -->
+<img src="./assets/hero_animated.svg" alt="Juyel Rana (@Rana0Codes) — Full-Stack Developer &amp; Systems Builder" width="100%" />
 
 <br><br>
 
