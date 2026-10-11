@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Epic Dragon vs Phoenix Animated Hero Showcase -->
-<img src="./assets/hero_animated.svg" alt="Juyel Rana (@Rana0Codes) — Full-Stack Developer &amp; Systems Builder" width="100%" />
+<!-- Epic Dragon vs Bird Animated Hero Showcase -->
+<img src="./assets/hero_animated.gif" alt="Juyel Rana (@Rana0Codes) — Full-Stack Developer &amp; Systems Builder" width="100%" />
 
 <br><br>
 
