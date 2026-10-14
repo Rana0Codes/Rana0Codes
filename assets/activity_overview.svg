@@ -85,7 +85,7 @@
 
       <!-- Pill 2: Commits -->
       <rect x="133" y="0" width="135" height="22" rx="6" fill="rgba(63, 185, 80, 0.08)" stroke="rgba(63, 185, 80, 0.25)" stroke-width="1" />
-      <text x="141" y="15" fill="#3fb950" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" font-weight="600">61+ COMMITS LOGGED</text>
+      <text x="141" y="15" fill="#3fb950" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" font-weight="600">64+ COMMITS LOGGED</text>
 
       <!-- Pill 3: Focus -->
       <rect x="276" y="0" width="145" height="22" rx="6" fill="rgba(168, 85, 247, 0.08)" stroke="rgba(168, 85, 247, 0.25)" stroke-width="1" />
@@ -96,29 +96,29 @@
     <g transform="translate(0, 62)">
       <text x="0" y="0" fill="#7d8590" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="600" letter-spacing="0.5">RECENTLY ACTIVE CODEBASES (AUTO-REFLECTED):</text>
       
-      <!-- Repo 1: Portfolio-v2 -->
+      <!-- Repo 1: Anime-Recommendation-Generator -->
       <g transform="translate(0, 14)">
+        <circle cx="5" cy="8" r="3.5" fill="#f7df1e" />
+        <text x="16" y="11" fill="#e6edf3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600">Anime-Recommendation-Generator</text>
+        <text x="245" y="11" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10">JavaScript</text>
+        <rect x="330" y="0" width="80" height="17" rx="4" fill="rgba(255,255,255,0.04)" />
+        <text x="370" y="12" fill="#3fb950" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.5" text-anchor="middle">6 commits</text>
+      </g>
+      <!-- Repo 2: Portfolio-v2 -->
+      <g transform="translate(0, 40)">
         <circle cx="5" cy="8" r="3.5" fill="#f7df1e" />
         <text x="16" y="11" fill="#e6edf3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600">Portfolio-v2</text>
         <text x="245" y="11" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10">JavaScript</text>
         <rect x="330" y="0" width="80" height="17" rx="4" fill="rgba(255,255,255,0.04)" />
         <text x="370" y="12" fill="#3fb950" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.5" text-anchor="middle">14 commits</text>
       </g>
-      <!-- Repo 2: Portfolio -->
-      <g transform="translate(0, 40)">
+      <!-- Repo 3: Portfolio -->
+      <g transform="translate(0, 66)">
         <circle cx="5" cy="8" r="3.5" fill="#563d7c" />
         <text x="16" y="11" fill="#e6edf3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600">Portfolio</text>
         <text x="245" y="11" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10">CSS</text>
         <rect x="330" y="0" width="80" height="17" rx="4" fill="rgba(255,255,255,0.04)" />
         <text x="370" y="12" fill="#3fb950" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.5" text-anchor="middle">6 commits</text>
-      </g>
-      <!-- Repo 3: Anime-Recommendation-Generator -->
-      <g transform="translate(0, 66)">
-        <circle cx="5" cy="8" r="3.5" fill="#f7df1e" />
-        <text x="16" y="11" fill="#e6edf3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600">Anime-Recommendation-Generator</text>
-        <text x="245" y="11" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10">JavaScript</text>
-        <rect x="330" y="0" width="80" height="17" rx="4" fill="rgba(255,255,255,0.04)" />
-        <text x="370" y="12" fill="#3fb950" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.5" text-anchor="middle">4 commits</text>
       </g>
       <!-- Repo 4: smart-image-document-detector -->
       <g transform="translate(0, 92)">
