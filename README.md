@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Epic Dragon vs Bird Animated Hero Showcase -->
+<!-- Animated Code Infinity Hero Showcase — Rana0Codes Developer Brand -->
 <img src="./assets/hero_animated.gif" alt="Juyel Rana (@Rana0Codes) — Full-Stack Developer &amp; Systems Builder" width="100%" />
 
 <br><br>
