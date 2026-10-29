@@ -85,7 +85,7 @@
 
       <!-- Pill 2: Commits -->
       <rect x="133" y="0" width="135" height="22" rx="6" fill="rgba(63, 185, 80, 0.08)" stroke="rgba(63, 185, 80, 0.25)" stroke-width="1" />
-      <text x="141" y="15" fill="#3fb950" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" font-weight="600">120+ COMMITS LOGGED</text>
+      <text x="141" y="15" fill="#3fb950" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" font-weight="600">121+ COMMITS LOGGED</text>
 
       <!-- Pill 3: Focus -->
       <rect x="276" y="0" width="145" height="22" rx="6" fill="rgba(168, 85, 247, 0.08)" stroke="rgba(168, 85, 247, 0.25)" stroke-width="1" />
